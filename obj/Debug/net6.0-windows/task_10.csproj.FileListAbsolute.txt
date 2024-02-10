@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\task_10\bin\Debug\net6.0-windows\task_10.exe
+C:\Users\User\source\repos\task_10\bin\Debug\net6.0-windows\task_10.deps.json
+C:\Users\User\source\repos\task_10\bin\Debug\net6.0-windows\task_10.runtimeconfig.json
+C:\Users\User\source\repos\task_10\bin\Debug\net6.0-windows\task_10.dll
+C:\Users\User\source\repos\task_10\bin\Debug\net6.0-windows\task_10.pdb
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\task_10.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\task_10.Form1.resources
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\task_10.csproj.GenerateResource.cache
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\task_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\task_10.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\task_10.AssemblyInfo.cs
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\task_10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\task_10.dll
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\refint\task_10.dll
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\task_10.pdb
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\task_10.genruntimeconfig.cache
+C:\Users\User\source\repos\task_10\obj\Debug\net6.0-windows\ref\task_10.dll
